@@ -21,11 +21,11 @@ function sub(a){
 	}
 }
 
-/*console.log(
+console.log(
 sub(0)(0) + " = 0\n" +// 0
 sub(2)(1) + " = 1\n" + // 1
 sub(2)(2) + " = 0\n" + // 0
-sub(2)(4) + " = -2\n"); // -2*/
+sub(2)(4) + " = -2\n"); // -2
 
 console.log(adder(mult(2), mult(4))(2));
 
